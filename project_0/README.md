@@ -2,10 +2,15 @@
 
 ## Оглавление
 [1.Описание проекта](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
+
 [2. Какой кейс решаем?](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#)
+
 [3. Краткая информация о данных](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#)
+
 [4. Этапы работы над проектом](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#)
+
 [5 Результаты](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#)
+
 [6. Выводы](https://github.com/Ceravac/sf_data_science/blob/main/project_0/README.md#)
 
 ### Описание проекта
