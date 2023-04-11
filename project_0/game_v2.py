@@ -32,7 +32,6 @@ def random_predict(number: int = 1) -> int:
             # Если загаданное число меньше предполагаемого, устанавливаем новый макс диапазон
             high = number -1
                      
-            #break  # выход из цикла если угадали
     return count
 
 
